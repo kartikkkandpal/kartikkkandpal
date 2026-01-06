@@ -1,13 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kartik Kandpal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkkandpal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkkandpal" /> </p>
+
+- 🔭 I’m currently working on [sxssc](1ed)
+
+- 🌱 I’m currently learning **cd**
+
+- 👯 I’m looking to collaborate on [xcdsc](cdc)
+
+- 🤝 I’m looking for help with [csc](cdc)
+
 - 👨‍💻 All of my projects are available at [https://kartikkkandpaldev.vercel.app/](https://kartikkkandpaldev.vercel.app/)
+
+- 📝 I regularly write articles on [cdc](cdc)
+
+- 💬 Ask me about **dc**
 
 - 📫 How to reach me **kandpalkartik.13@gmail.com**
 
-- ⚡ Fun fact **SIH 2024, Winner**
+- 📄 Know about my experiences [cdc](cdc)
 
-<h3 align="left">Checkout my Socials:</h3>
+- ⚡ Fun fact **Turned a problem statement into a trophy — SIH 2024 Winner**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikkkandpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikkkandpal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartikkkandpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikkkandpal" height="30" width="40" /></a>
