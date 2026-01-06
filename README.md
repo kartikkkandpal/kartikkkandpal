@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Kandpal</h1>
 <h3 align="center">
-Smart India Hackathon 2024 Winner • Aspiring SDE with strong DSA Foundations • Passionate about scalable MERN & Next.js Applications
+SIH 2024 Winner • Aspiring SDE with strong DSA Foundations • Passionate about scalable MERN & Next.js Applications
 </h3>
 
 - 🔭 I’m currently working on [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/])
