@@ -32,11 +32,11 @@ Smart India Hackathon 2024 Winner and Passionate about scalable MERN & Next.js A
   <img src="./html.svg" width="40" height="40" alt="HTML" />
   <img src="./css.svg" width="40" height="40" alt="CSS" />
   <img src="./react.svg" width="40" height="40" alt="React" />
-  <img src="./nodeJs.svg" width="40" height="40" alt="Node.js" />
+  <img src="./node.Js.svg" width="40" height="40" alt="Node.js" />
   <img src="./express.svg" width="40" height="40" alt="Express.js" />
   <img src="./mongoDB.svg" width="40" height="40" alt="MongoDB" />
   <img src="./mySQL.svg" width="40" height="40" alt="MySQL" />
-  <img src="./nextJs.svg" width="40" height="40" alt="Next.js" />
+  <img src="./next.Js.svg" width="40" height="40" alt="Next.js" />
   <img src="./aws.svg" width="40" height="40" alt="AWS" />
   <img src="./docker.svg" width="40" height="40" alt="Docker" />
   <img src="./git.svg" width="40" height="40" alt="Git" />
