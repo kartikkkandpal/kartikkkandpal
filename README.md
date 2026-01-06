@@ -52,6 +52,6 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kartikkkandpal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kartikkkandpal" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/kandpalkarq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="kartikkkandpal" /></a></p><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkkandpal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkkandpal" /> </p>
