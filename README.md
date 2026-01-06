@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Kandpal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Smart India Hackathon 2024 Winner • Aspiring SDE with strong DSA Foundations • Passionate about scalable MERN & Next.js Applications
+</h3>
 
 - 🔭 I’m currently working on [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/])
 
@@ -9,9 +11,9 @@
 
 - 📫 How to reach me **kandpalkartik.13@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kartikkkandpaldev.vercel.app)
+- 👨‍💻 Discover my work and projects on my [Portfolio](https://kartikkkandpaldev.vercel.app)
 
-- ⚡ Fun fact **Turned a problem statement into a trophy - Smart India Hackathon 2024 Winner**
+- ⚡ Fun fact: **Turned a problem statement into a trophy - Smart India Hackathon 2024 Winner**
 
 <h3 align="left">Checkout my Socials:</h3>
 <p align="left">
@@ -43,7 +45,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="CSS"/>
   </a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React"/>
   </a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
