@@ -42,7 +42,7 @@ Smart India Hackathon 2024 Winner and Passionate about scalable MERN & Next.js A
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
   </a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React"/>
