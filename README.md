@@ -27,7 +27,7 @@ Smart India Hackathon 2024 Winner and Passionate about scalable MERN & Next.js A
 <p align="left"
    style="display:flex; flex-wrap:wrap; gap:10px; font-size:0;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+     <img src="./javascript.svg" width="40" height="40" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
