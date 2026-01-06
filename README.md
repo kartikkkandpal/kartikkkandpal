@@ -66,7 +66,7 @@ Smart India Hackathon 2024 Winner and Passionate about scalable MERN & Next.js A
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
   </a>
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+    <img src="https://www.geeksforgeeks.org/blogs/containerization-using-docker/" width="40" height="40" alt="Docker"/>
   </a>
   <a href="https://git-scm.com/docs" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
