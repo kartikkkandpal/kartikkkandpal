@@ -31,5 +31,3 @@
   <img src="./playwright.svg" width="40" height="40" alt="Playwright" />
   <img src="./postman.svg" width="40" height="40" alt="Postman" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikkkandpal&label=Profile%20views&color=0e75b6&style=flat" alt="kartikkkandpal" /> </p>
