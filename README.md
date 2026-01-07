@@ -1,6 +1,6 @@
 22, Engineer, turning ideas into real products.
 
-* → Smart India Hackathon '24, Winner @[National Investigation Agency](https://nia.gov.in/).
+* → Smart India Hackathon '24, Winner @[NIA (National Investigation Agency)](https://nia.gov.in/).
 * → Check out all my work on my portfolio [kartikkkandpal.dev](https://kartikkkandpaldev.vercel.app/).
 * → Building [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/), a unified public healthcare platform designed to address systemic healthcare challenges.
 * → Created [Zingo](https://github.com/kartikkkandpal/Zingo), bridge to seamless meetings. [Live](https://zingo-kartikk.vercel.app/)
