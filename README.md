@@ -1,4 +1,12 @@
-22, Engineer, turning ideas into real products.
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <span style="font-size:16px; font-weight:600;">
+    22, Engineer, turning ideas into real products.
+  </span>
+  <img
+    src="https://komarev.com/ghpvc/?username=kartikkkandpal&label=Profile%20views&color=0e75b6&style=flat"
+    alt="kartikkkandpal profile views"
+  />
+</div>
 
 * → Smart India Hackathon '24, Winner @[NIA (National Investigation Agency)](https://nia.gov.in/).
 * → Check out all my work on my portfolio [kartikkkandpal.dev](https://kartikkkandpaldev.vercel.app/).
