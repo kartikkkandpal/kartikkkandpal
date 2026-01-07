@@ -5,16 +5,19 @@
 * → Building [Swasthya Setu](https://swasthyasetu-kartikk.vercel.app/), a unified public healthcare platform designed to address systemic healthcare challenges.
 * → Created [Zingo](https://github.com/kartikkkandpal/Zingo), bridge to seamless meetings. [Live](https://zingo-kartikk.vercel.app/)
 * → Reach out to me here [kandpalkartik.13@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kandpalkartik.13@gmail.com), Socials below:
-    * ➤ Linkedln: [kartikkkandpal](https://linkedin.com/in/kartikkkandpal) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="12" align="center" />
-    * ➤ Leetcode: [kartikkkandpal](https://www.leetcode.com/kartikkkandpal) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="14" width="14" align="center" />
+    * ➤ Linkedln: [kartikkkandpal](https://linkedin.com/in/kartikkkandpal)
+    * ➤ Leetcode: [kartikkkandpal](https://www.leetcode.com/kartikkkandpal)
 * → Primary technologies and frameworks I actively work with:
+    * ➤ Programming Languages: C++, JavaScript, Typescript, Python, SQL
+    * ➤ Frontend: React.js, Next.js, TailwindCSS, Bootstrap, ShadCN, Redux, Zustand, HTML, CSS
+    * ➤ Backend: Node.js, Express.js, MongoDB, WebRTC, Socket.io, RESTful APIs, Redis 
+    * ➤ Tools and Technologies: Git & GitHub, Multer, Postman, Vercel, Render, JWT, Zod, Docker, AWS, CI/CD, GenAI
+    
 <p align="left" style="display:flex; flex-wrap:wrap; gap:10px; font-size:0;">
   <img src="./javascript.svg" width="40" height="40" alt="JavaScript" />
   <img src="./typescript.svg" width="40" height="40" alt="TypeScript" />
   <img src="./cPlusPlus.svg" width="40" height="40" alt="C++" />
   <img src="./python.svg" width="40" height="40" alt="Python" />
-  <img src="./html.svg" width="40" height="40" alt="HTML" />
-  <img src="./css.svg" width="40" height="40" alt="CSS" />
   <img src="./next.Js.svg" width="40" height="40" alt="Next.js" />
   <img src="./react.svg" width="40" height="40" alt="React" />
   <img src="./node.Js.svg" width="40" height="40" alt="Node.js" />
