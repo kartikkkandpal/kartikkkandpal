@@ -29,5 +29,7 @@
   <img src="./docker.svg" width="40" height="40" alt="Docker" />
   <img src="./git.svg" width="40" height="40" alt="Git" />
   <img src="./playwright.svg" width="40" height="40" alt="Playwright" />
+  <img src="./webrtc.svg" width="40" height="40" alt="WebRTC" />
+  <img src="./socket.io.svg" width="40" height="40" alt="Socket.IO" />
   <img src="./postman.svg" width="40" height="40" alt="Postman" />
 </p>
